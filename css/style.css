@@ -1,0 +1,26 @@
+:root{
+  --text-color:#000000;
+  --main-color: #83b735;
+  --stars-color:#fbc02d;
+}
+.container-fluid
+{
+  text-transform: capitalize;
+}
+
+.big-text-1
+{
+    margin-top:100px;
+}
+
+.big-text-1 span
+{
+  font-size: 2rem;
+  color: var(--main-color)
+}
+
+.btn-first
+{
+background: var(--main-color);
+color: #fff;
+}
